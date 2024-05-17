@@ -279,7 +279,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -289,7 +289,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Pear",
@@ -299,7 +299,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -341,7 +341,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -351,7 +351,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Pear",
@@ -361,7 +361,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -403,7 +403,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -413,7 +413,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Pear",
@@ -423,7 +423,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -465,7 +465,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -475,7 +475,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Pear",
@@ -485,7 +485,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -527,7 +527,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -537,7 +537,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Plum",
@@ -547,7 +547,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -589,7 +589,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -599,7 +599,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Plum",
@@ -609,7 +609,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -651,7 +651,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -661,7 +661,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Plum",
@@ -671,7 +671,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -713,7 +713,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -723,7 +723,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Plum",
@@ -733,7 +733,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -775,7 +775,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -785,7 +785,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Apple",
@@ -795,7 +795,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -837,7 +837,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -847,7 +847,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Apple",
@@ -857,7 +857,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -899,7 +899,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -909,7 +909,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Apple",
@@ -919,7 +919,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
@@ -961,7 +961,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 2
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Heatpack",
@@ -971,7 +971,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 1
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "Apple",
@@ -981,7 +981,7 @@
                       "quantityMin": 1.0,
                       "quantityMax": 1.0
                   },
-                  "quickBarSlot": 3
+                  "quickBarSlot": -1
               },
               {
                   "itemType": "ChernarusMap",
